@@ -2,6 +2,8 @@
 
 This is a simple starter template based on [this template](https://github.com/vuetifyjs/nuxt)
 
+Looking for the **Nuxt JS 2.2.x** version? Switch to our `1.0` branch.
+
 ## Build Setup
 
 ``` bash
